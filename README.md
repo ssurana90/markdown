@@ -1,2 +1,2 @@
 # markdown
-<h1> Markdown samples repo
+<h6> Markdown samples repo
